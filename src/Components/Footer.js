@@ -1,0 +1,51 @@
+import React from 'react';
+import ExpandLessIcon from '@material-ui/icons/ExpandLess';
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import GitHubIcon from '@material-ui/icons/GitHub';
+import EmailIcon from '@material-ui/icons/Email';
+import Codechef from '@material-ui/icons/ClosedCaption';
+
+class Footer extends React.Component {
+	render() {
+		return (
+			<div 
+			id="contact"
+			style={{height:"180px",
+			padding:"20px",
+		    background:"#191919"}}
+			>
+			<p className="bottombtn" style={{
+				textAlign:"center",
+				justifyContent:"center",
+			    height:"50px",
+				width:"50px",
+				borderRadius:"50%",
+				margin:"10px auto",
+				background:"grey",
+				cursor:"pointer"}}>
+			<a href="#home" >
+			<ExpandLessIcon fontSize="large" style={{color:"#fff",paddingTop:"7px"}} />
+			</a>
+			</p>
+
+			<div className="social" style={{textAlign:"center"}}>
+			  <a href="https://www.linkedin.com/in/chaithanya-bommanaveni-95b935289/" rel="noopener noreferrer">
+			 <LinkedInIcon />
+			 </a>
+			 <a href="https://www.leetcode.com/u/chaithanyabommanaveni/" rel="noopener noreferrer">
+			 <Codechef />
+			 </a>
+			 <a href="mailto:chaithanyabommanaveni@gmail.com" rel="noopener noreferrer">
+			 <EmailIcon />
+			 </a>
+			 <a href="http://github.com/sreyachaithu" rel="noopener noreferrer">
+			 <GitHubIcon />
+			 </a>
+			
+			 </div>
+			</div>
+		)
+	}
+}
+
+export default Footer
