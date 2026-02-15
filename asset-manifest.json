@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO_CHAITHUYADAV/static/css/main.7376647e.chunk.css",
+    "main.js": "/PORTFOLIO_CHAITHUYADAV/static/js/main.562702d8.chunk.js",
+    "main.js.map": "/PORTFOLIO_CHAITHUYADAV/static/js/main.562702d8.chunk.js.map",
+    "runtime-main.js": "/PORTFOLIO_CHAITHUYADAV/static/js/runtime-main.68aa56f2.js",
+    "runtime-main.js.map": "/PORTFOLIO_CHAITHUYADAV/static/js/runtime-main.68aa56f2.js.map",
+    "static/js/2.895af72f.chunk.js": "/PORTFOLIO_CHAITHUYADAV/static/js/2.895af72f.chunk.js",
+    "static/js/2.895af72f.chunk.js.map": "/PORTFOLIO_CHAITHUYADAV/static/js/2.895af72f.chunk.js.map",
+    "index.html": "/PORTFOLIO_CHAITHUYADAV/index.html",
+    "precache-manifest.1976fd8521ed7f7e4afd292470721509.js": "/PORTFOLIO_CHAITHUYADAV/precache-manifest.1976fd8521ed7f7e4afd292470721509.js",
+    "service-worker.js": "/PORTFOLIO_CHAITHUYADAV/service-worker.js",
+    "static/css/main.7376647e.chunk.css.map": "/PORTFOLIO_CHAITHUYADAV/static/css/main.7376647e.chunk.css.map",
+    "static/js/2.895af72f.chunk.js.LICENSE.txt": "/PORTFOLIO_CHAITHUYADAV/static/js/2.895af72f.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/PORTFOLIO_CHAITHUYADAV/static/media/header-background.395df93f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68aa56f2.js",
+    "static/js/2.895af72f.chunk.js",
+    "static/css/main.7376647e.chunk.css",
+    "static/js/main.562702d8.chunk.js"
+  ]
+}
