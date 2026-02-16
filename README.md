@@ -6,8 +6,8 @@ It showcases my skills, education, and projects in a clean and responsive design
 ---
 
 ## 🚀 Live Demo
+https://portfolio-chaithuyadav-hu28.vercel.app
 
-🔗 https://your-vercel-link.vercel.app
 
 ---
 
@@ -41,5 +41,6 @@ git clone https://github.com/sreyachaithu/PORTFOLIO_CHAITHUYADAV.git
 cd PORTFOLIO_CHAITHUYADAV
 npm install
 npm start
+
 
 
